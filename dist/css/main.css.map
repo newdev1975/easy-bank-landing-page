@@ -1,0 +1,23 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../app/scss/main.scss",
+        "../../app/scss/abstracts/_variables.scss",
+        "../../app/scss/abstracts/_mixins.scss",
+        "../../app/scss/abstracts/_animations.scss",
+        "../../app/scss/base/_reset.scss",
+        "../../app/scss/base/_typography.scss",
+        "../../app/scss/layout/_navigation.scss",
+        "../../app/scss/layout/_grid.scss",
+        "../../app/scss/layout/_header.scss",
+        "../../app/scss/layout/_footer.scss",
+        "../../app/scss/layout/_section.scss",
+        "../../app/scss/components/_buttons.scss",
+        "../../app/scss/components/_overlay.scss",
+        "../../app/scss/pages/_home.scss",
+        "../../app/scss/themes/_default.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
