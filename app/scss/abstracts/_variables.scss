@@ -1,6 +1,12 @@
-/******************************************
-             Variables                    *
-******************************************/
+/************************************************
+             Variables                          *
+************************************************/
+
+// Reset SCSS
+@import '../../../node_modules/scss-reset/reset';
+
+//  Import Font - Public Sans
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap');
 
 // Colors
 

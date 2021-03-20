@@ -1,19 +1,8 @@
-@import 'abstracts/variables';
-@import 'abstracts/mixins';
-@import 'abstracts/animations';
-
-@import 'base/reset';
-@import 'base/typography';
-
-@import 'layout/navigation';
-@import 'layout/grid';
-@import 'layout/header';
-@import 'layout/footer';
-@import 'layout/section';
-
-@import 'components/buttons';
-@import 'components/overlay';
-
-@import 'pages/home';
-
-@import 'themes/default';
+@import './abstracts/abstracts';
+@import './vendors/vendors';
+@import './base/base';
+@import './components/components';
+@import './layout/layout';
+@import './pages/pages';
+@import './themes/themes';
+@import 'settings';
